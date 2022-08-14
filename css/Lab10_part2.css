@@ -1,0 +1,15 @@
+/*body{
+    margin: 0 100px;
+}*/ 
+img{            	
+    width: 97;
+    height: 100;
+    position: absolute;
+}
+
+p {
+    width: 900px;
+    height: 300px;
+    position: relative;
+    border: 1px solid blue;
+}
